@@ -1,0 +1,7 @@
+*.log
+.DS_Store
+.claude/
+.env
+node_modules/
+PLAN.md
+assets/img/source/
